@@ -1,0 +1,39 @@
+﻿Private discount rate (min) [%],Private discount rate (max) [%],Social discount rate (min) [%],Social discount rate (max) [%],Non-specified type of iscount rate (min) [%],Non-specified type of discount rate (max) [%],Time horizon [years],Authors,Year,Study,Notes
+4,9,3,3,,,40,"Teotónio et al.,",2018.00,Eco-solutions for urban environments regeneration,"Sound insulation: high value is due to the fact that the benefit is applied to the whole building instead of only to the last floor (if only the last floor benefitted from sound insulation, then the overall value would need to be futher divided by the number of floors in the building, which is however unknown in this study)"
+4,12,2,8,,,50,"Claus & Rousseau,",2012.00,Public versus private incentives to invest in green roofs: a cost benefit analysis for Flanders,"Maintenance cost: includes water sampling costs to determine the water quality
+Installation costs: includes regulatory costs to gather taxes needed for incentive
+Substrate layer depth: 4-5 cm
+sound insulation benefits: are only attributed to the highest floor, explaining the low value
+regulatory costs: yearly water sampling costs, due to a Belgian water quality regulation"
+,,,,5,5,40,"Clark et al., ",2008,Green roof valuation: a probabilisitc economic analysis of environmental benefits,Extensive roof depth: 5-15 cm
+4,4,,,4,4,4,"Carter & Keeler,",2008.00,Life-cycle cost-benefit analysis of extensive vegetated roof systems,"commercial buildings: Although the whole area included commercial and residential buildings most savings came from commercial buildings, and a figurE of savings for commercial buildings was used (p.8 top left).
+Growing media depth: 7.62 cm"
+,,,,2,8,55,"Bianchini & Hewage,",2012.00,Probabilistic social cost-benefit analysis for green roofs: A lifecycle approach,
+,,,,2,8,40,"Bianchini & Hewage,",2012.00,Probabilistic social cost-benefit analysis for green roofs: A lifecycle approach,
+,,,,6,7,40,"Niu et al.,",2010.00,"Scaling of economic benefits from green roof implementation in Wahsington, DC",
+,,,,,,20,"Ascione et al.,",2013,Green roofs in European climates. Are effective soluzitons for the energy savings in air-conditioning?,
+,,4.25,4.25,4.25,4.25,40,"Peng & Jim,",2015,Economic evaluation of green-roof environmental benefits in the context of climate change: The case of Hong Kong,
+,,4,4,4,4,50,"Machac et al.,",2016,"Green and Blue Infrastructure: An Opportunity for Smart Cities
+substrate thickness: 8 cm",
+,,8,15,,,50,"Mahdiyar et al.,",2016,Probabilistic private cost-benefit analysis for green roof installation: A  monte carlo simulation approach,
+3,3,,,3,3,25,"McRae,",2016,Case study: A conservative approach to green roof benefit quantification and valuation for public buildings,
+,,3.5,3.5,3.5,3.5,50,"Nordman et al.,",2018,"Benefit-cost analysis of stormwater green infrastructure practices for Grand Rapids, Michigan, USA",
+3.5,6,3,3.5,,,40,"Berto et al.,",2018,Enhancing the environmental performance of industrial settlements. An economic evaluation of extensive green roof competitiveness,"Additional data: occupant density = 8 m2/person
+building footprint = 780.33 m2"
+,,,,3.36,3.36,40,"Silva et al.,",2019,The socioeconomic feasibility of greening rail stations: a case study in Lisbon,
+3,3,3,3,,,50,"Johnson & Geisendorf,",2019,Are Neighborhood-level SUDS Worth it? An assessment of the Economic Value of Sustainable Urban Drainage System Scenarios Using Cost-Benefit Analyses,Degree days for cooling were considered to be 102 in Berlin based on https://www.eurima.org/uploads/ModuleXtender/Publications/13/EURIMA-ECOFYS_VII_report_p66-104_ANNEXES1.pdf
+,,5.5,5.5,,,20,"Shin & Kim,",2018,Analysing Green Roof Effects in an Urban Environment: A Case of Bangbae dong Seoul,
+3.5,7,,,3.5,7,40,"William et al.,",2016,"An environmental cost-benefit analysis of alternative green roofing strategies
+planting medium depth: 20 cm",
+5,5,,,5,5,25,"Statler et al.,",2017,"Optimizing angles of rooftop photovoltaics, ratios of solar to vegetated roof systems, and economic benefits, in Portland, Oregon, USA
+growing media depth: 5 cm",
+3.5,6,3,3.5,,,75,"Berto et al.,",2020,The Valuation of Public and Private Benefits of Green Roof Retrofit in Different Climate Conditions,"Social discount rate: 3 (year 0-30) and then 3.5 (year 31-75)
+Private discount rate: 3.5 (year 0-30) and then 6 (year 31-75)"
+,,,,,,,,,,
+,,4.5,4.5,,,20,"Shin & Kim,",2019,"Benefit-Cost Analysis of Green Roof Initiative Projects. The Case of Jung-gu, Seoul",
+,,4,4,4,4,50,"Yao et al.,",2018,Integrating cost-benefits analysis and life cycle assessment of green roofs: a case study in Florida,
+,,6.67,6.67,6.67,6.67,40,"Almeida et al.,",2020,Socioeconomic feasibility of green roofs and walls in public buildings: The case study of primary schoools in Portugal,
+8,8,,,8,8,20,"Xin et al.,",2021,Comprehensive performance Evaluation of Green Infrastructure Practices for Urban Watersheds Using an Engineering-Enviromental-Economic (3E) Model,
+,,,,,,10,"Gwak et al.,",2017,Optimal location selection for the installation of urban green roofs considering honeybee habitats along with socio-economic and environmental effects,
+3.5,3.5,,,,,50,"Perini & Rosasco,",2016,Is greening the building envelope economically sustainable? An analysis to evaluate the advantages of economy of scope of vertical green systems and green roofs,
+,,5,5,5,5,30,"Vincent et al.,",2017,Enhancing the Economic Value of Large Investments in Sustainable Drainage Systems (SuDS) through Inclusion of Econsystems Services Benefits,
